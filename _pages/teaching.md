@@ -17,4 +17,4 @@ author_profile: true
 
 ### Supervision
  * 5 MA theses
- * 9 BA thesesPublic Policy
+ * 9 BA theses
