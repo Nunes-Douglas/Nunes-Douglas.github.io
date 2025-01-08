@@ -12,6 +12,6 @@ author_profile: true
 
 ### Skills and higher education Policy
  * Distribution or redistribution in higher education? The politics of the expansion of higher education institutions in the Brazilian context. With Amanda Domingos
- * A Broader European integration through the European Universities Initiative? The Implications of the EUI for an Enlarging EU. With Efe C. Özek
+ * A Broader European integration through the European Universities Initiative? The Implications of the EUAs for an Enlarging EU. With Efe C. Özek
 
 
