@@ -12,6 +12,7 @@ author_profile: true
  * Pagliarello, M. C., Thies, M., Tubakovic, T., & Nunes, D. (2025). The Polysemy of Skills: Exploring Country‐Specific Approaches in the Knowledge Economy. _Regulation & Governance_. https://doi.org/10.1111/rego.70102
   <a href="https://doi.org/10.1111/rego.70102" class="btn btn--primary btn--small">DOI</a>
   <a href="https://onlinelibrary.wiley.com/share/author/VHSKKFCEPR7YSJR7SENT?target=10.1111/rego.70102" class="btn btn--primary btn--small">Access</a>
+  
 ### Book Project
  * Higher Education in Europe’s knowledge economies: National and regional stakeholders' influence on higher education policy
 
